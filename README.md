@@ -2,7 +2,7 @@
 Liens, Slides et talks autour de tous qui est VM, Compilateur etc
 
 ## Javascript
-Comprendre comment fonctionne les engines moderne Javascript (V8 Engine, Chakra Core, JSC etc.) fonctionnement et sont optimisés.
+Comprendre comment fonctionne et sont optimisés les engines moderne Javascript (V8 Engine, Chakra Core, JSC...)
 
 - [V8 Engine Ignition](https://v8.dev/docs/ignition)
 - [V8 Engine TurboFan](https://v8.dev/docs/turbofan)
