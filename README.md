@@ -29,6 +29,7 @@ Comprendre comment fonctionne et sont optimisés les engines moderne Javascript 
 - [Setting up prototypes in V8](https://medium.com/@tverwaes/setting-up-prototypes-in-v8-ec9c9491dfe2)
 - [What's up with monomorphism](https://mrale.ph/blog/2015/01/11/whats-up-with-monomorphism.html)
 - [JavaScript engine fundamentals: Shapes and Inline Caches](https://mathiasbynens.be/notes/shapes-ics)
+- [JavaScript engine fundamentals: optimizing prototypes](https://mathiasbynens.be/notes/prototypes)
 - [Javascript performance pitfalls in V8](https://ponyfoo.com/articles/javascript-performance-pitfalls-v8)
 - [Understanding V8’s Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
 
