@@ -22,6 +22,7 @@ Comprendre comment fonctionne et sont optimisés les engines moderne Javascript 
 - [In-place field representation changes](https://docs.google.com/document/d/10CbqmRs-i8Jy0IE3ToEP25_FD8gj2kEHvfd3N0icN3g/preview)
 - [Faster JS to WASM Calls](https://docs.google.com/document/d/1sOIGJ5IRbOPqrgN6hqvEOOu44tiyrxDF0o9AHLAovSk/edit)
 - [Array destructuring for multi-value returns (in light of React hooks)](https://docs.google.com/document/d/1hWb-lQW4NSG9yRpyyiAA_9Ktytd5lypLnVLhPX9vamE/edit)
+- [Constant field tracking for arrays](https://docs.google.com/document/d/1r2GAvdi_wudDS6iRUfdPw0gxWMfV-IX1PqKgwW47FyE/edit)
 
 ### Articles
 - [Setting up prototypes in V8](https://medium.com/@tverwaes/setting-up-prototypes-in-v8-ec9c9491dfe2)
