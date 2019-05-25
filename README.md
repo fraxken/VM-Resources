@@ -36,7 +36,12 @@ Comprendre comment fonctionne et sont optimisés les engines moderne Javascript 
 ### Tools
 - [JavaScript (engine) Version Updater](https://github.com/GoogleChromeLabs/jsvu#readme)
 
-## Reading Material (VM & Interpreters)
+## Reading Material
+
+### Language
+- [Site du Dr. Axel Rauschmayer](http://2ality.com/)
+
+### VM & Interpreters
 
 - [Revolutionizing Embedded Software](http://verdich.dk/kasper/RES.pdf)
 - [Context Threading: A flexible and efficient dispatch technique for virtual machine interpreters](http://www.cs.toronto.edu/syslab/pubs/demkea_context.pdf)
