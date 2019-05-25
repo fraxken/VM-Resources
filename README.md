@@ -12,6 +12,7 @@ Comprendre comment fonctionne et sont optimisés les engines moderne Javascript 
 - [Blog de Vyacheslav Egorov](https://mrale.ph/)
 - [V8 Resources par Egorov](https://mrale.ph/v8/resources.html)
 - [Blog de Mathias Bynens](https://mathiasbynens.be/)
+- [Blog de Franziska Hinkelmann](https://fhinkel.rocks/)
 - [ChakraCore Resources](https://github.com/Microsoft/ChakraCore/wiki/Resources)
 
 ### V8 Google Share
