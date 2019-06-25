@@ -51,6 +51,8 @@ Comprendre comment fonctionne et sont optimisés les engines moderne Javascript 
 - [A Generator of Effcient Virtual Machine Interpreters](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.16.7676&rep=rep1&type=pdf)
 - [A Self Bibliography](https://sites.cs.ucsb.edu/~urs/oocsb/self/papers/papers.html)
 - [Branch Prediction and the Performance of Interpreters - Don’t Trust Folklore](https://hal.inria.fr/hal-00911146/document)
+- [Loop-Aware Optimizations in PyPy's Tracing JIT](https://bitbucket.org/pypy/extradoc/src/98f94d389f25/talk/dls2012/licm.pdf)
+- [Constant propagation with conditional branches](https://dl.acm.org/citation.cfm?id=103136)
 
 ## Language Design
 - [ECMAlgol](https://www.ecma-international.org/publications/files/ECMA-ST-WITHDRAWN/ECMA-2,%201st%20Edition,%20April%201965.pdf)
