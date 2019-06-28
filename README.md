@@ -1,5 +1,5 @@
 # VM-Resources
-Liens, Slides et talks autour de tous qui est VM, Compilateur etc
+Articles, Documentation, Etudes, Slides et talks autour de tous qui est Virtual Machine, Compilateur et optimisation (surtout JIT), Language Design.
 
 ## Javascript
 Comprendre comment fonctionne et sont optimisés les engines moderne Javascript (V8 Engine, Chakra Core, JSC...)
@@ -37,12 +37,14 @@ Comprendre comment fonctionne et sont optimisés les engines moderne Javascript 
 ### Tools
 - [JavaScript (engine) Version Updater](https://github.com/GoogleChromeLabs/jsvu#readme)
 
-## Reading Material
-
-### Language
+### Autres
 - [Site du Dr. Axel Rauschmayer](http://2ality.com/)
 
-### VM & Interpreters
+### JavaScript design
+- [Document prior art / common finalizer pitfalls](https://github.com/tc39/proposal-weakrefs/issues/78)
+- [Wirfs Brock blog](http://www.wirfs-brock.com/allen/)
+
+## Virtual Machine, Interpreter, Compiler
 
 - [Revolutionizing Embedded Software](http://verdich.dk/kasper/RES.pdf)
 - [Context Threading: A flexible and efficient dispatch technique for virtual machine interpreters](http://www.cs.toronto.edu/syslab/pubs/demkea_context.pdf)
@@ -56,5 +58,5 @@ Comprendre comment fonctionne et sont optimisés les engines moderne Javascript 
 
 ## Language Design
 - [ECMAlgol](https://www.ecma-international.org/publications/files/ECMA-ST-WITHDRAWN/ECMA-2,%201st%20Edition,%20April%201965.pdf)
-- [Document prior art / common finalizer pitfalls](https://github.com/tc39/proposal-weakrefs/issues/78)
-- [Wirfs Brock blog](http://www.wirfs-brock.com/allen/)
+- [BNF Grammar Example](http://www.cs.utsa.edu/~wagner/CS3723/grammar/examples2.html)
+- [BNF & EBNF Grammar Video](https://www.youtube.com/watch?v=hl2NLbIaU7U)
