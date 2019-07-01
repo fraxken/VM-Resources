@@ -25,6 +25,7 @@ Comprendre comment fonctionne et sont optimisés les engines moderne Javascript 
 - [Array destructuring for multi-value returns (in light of React hooks)](https://docs.google.com/document/d/1hWb-lQW4NSG9yRpyyiAA_9Ktytd5lypLnVLhPX9vamE/edit)
 - [Constant field tracking for arrays](https://docs.google.com/document/d/1r2GAvdi_wudDS6iRUfdPw0gxWMfV-IX1PqKgwW47FyE/edit)
 - [Fast frozen & sealed elements in V8](https://docs.google.com/document/d/1X6zO5F_Zojizn2dmo_ftaOWsY8NltPHUhudBbUzMxnc/preview)
+- [Compressed pointers in V8](https://docs.google.com/document/d/10qh2-b4C5OtSg-xLwyZpEI5ZihVBPtn1xwKBbQC26yI/edit#heading=h.x1cv1fi5g42q)
 
 ### Articles
 - [Setting up prototypes in V8](https://medium.com/@tverwaes/setting-up-prototypes-in-v8-ec9c9491dfe2)
