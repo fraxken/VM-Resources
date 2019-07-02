@@ -40,6 +40,7 @@ Comprendre comment fonctionne et sont optimisés les engines moderne Javascript 
 
 ### Autres
 - [Site du Dr. Axel Rauschmayer](http://2ality.com/)
+- [JS Microbenchmarks](https://github.com/bmeurer/js-micro-benchmarks)
 
 ### JavaScript design
 - [Document prior art / common finalizer pitfalls](https://github.com/tc39/proposal-weakrefs/issues/78)
