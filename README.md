@@ -81,4 +81,8 @@ Different resources and links about JavaScript or useful tools.
 - [Object-Oriented Programming Versus Abstract Data Types](http://www.cs.utexas.edu/~wcook/papers/OOPvsADT/CookOOPvsADT90.pdf)
 - [Data Abstraction and Hierarchy](https://pdfs.semanticscholar.org/36be/babeb72287ad9490e1ebab84e7225ad6a9e5.pdf)
 - [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
+- [Object-Oriented Programming in Scheme](https://mumble.net/~jar/pubs/oopis.pdf)
+- [A Denotational Semantics of Inheritance](https://www.cs.utexas.edu/~wcook/papers/thesis/cook89.pdf)
+- [Inheritance Is Not Subtyping](http://www.cs.utexas.edu/~wcook/papers/InheritanceSubtyping90/CookPOPL90.pdf)
+- [A Behavioral Notion of Subtyping](https://www.cs.cmu.edu/~wing/publications/LiskovWing94.pdf)
 - [Wirfs Brock blog](http://www.wirfs-brock.com/allen/)
