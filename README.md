@@ -9,6 +9,7 @@ Different resources and links about JavaScript or useful tools.
 - [JavaScript engine fundamentals: Shapes and Inline Caches](https://mathiasbynens.be/notes/shapes-ics)
 - [JavaScript engine fundamentals: optimizing prototypes](https://mathiasbynens.be/notes/prototypes)
 - [Javascript performance pitfalls in V8](https://ponyfoo.com/articles/javascript-performance-pitfalls-v8)
+- [Wormholes in JavaScript](https://www.nearform.com/blog/wormholes-in-javascript/)
 - [Dr. Axel Rauschmayer Blog](http://2ality.com/)
 - [JS Microbenchmarks](https://github.com/bmeurer/js-micro-benchmarks)
 
