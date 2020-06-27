@@ -69,13 +69,13 @@ Different resources and links about JavaScript or useful tools.
 - [BNF Grammar Example](http://www.cs.utsa.edu/~wagner/CS3723/grammar/examples2.html)
 - [BNF & EBNF Grammar Video](https://www.youtube.com/watch?v=hl2NLbIaU7U)
 
-### ECMAScript related
+### ECMA related
 - [ECMAScript archives](https://www.ecma-international.org/archive/ecmascript/)
 - [Document prior art / common finalizer pitfalls (WeakRef)](https://github.com/tc39/proposal-weakrefs/issues/78)
-
----
-
 - [ECMAlgol](https://www.ecma-international.org/publications/files/ECMA-ST-WITHDRAWN/ECMA-2,%201st%20Edition,%20April%201965.pdf)
+
+### Data Abstraction and Object Oriented
+
 - [A Self Bibliography](https://sites.cs.ucsb.edu/~urs/oocsb/self/papers/papers.html)
 - [Proposal for Simplified, Modern Definitions of "Object" and "Object Oriented](https://wcook.blogspot.com/2012/07/proposal-for-simplified-modern.html)
 - [On Understanding Data Abstraction, Revisited](http://www.cs.utexas.edu/~wcook/Drafts/2009/essay.pdf)
@@ -86,4 +86,8 @@ Different resources and links about JavaScript or useful tools.
 - [A Denotational Semantics of Inheritance](https://www.cs.utexas.edu/~wcook/papers/thesis/cook89.pdf)
 - [Inheritance Is Not Subtyping](http://www.cs.utexas.edu/~wcook/papers/InheritanceSubtyping90/CookPOPL90.pdf)
 - [A Behavioral Notion of Subtyping](https://www.cs.cmu.edu/~wing/publications/LiskovWing94.pdf)
+- A theory of Objects by Martín Abadi, Luca Cardelli
+
+### Others
+
 - [Wirfs Brock blog](http://www.wirfs-brock.com/allen/)
