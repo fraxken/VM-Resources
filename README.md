@@ -32,6 +32,10 @@ Different resources and links about JavaScript or useful tools.
 - [Understanding V8’s Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
 - [v8-perf](https://github.com/thlorenz/v8-perf);
 
+### JSCore
+
+- [JavaScript core Speculation](https://webkit.org/blog/10308/speculation-in-javascriptcore/)
+
 #### Blogs 
 
 - [Benedikt Meurer](https://benediktmeurer.de/)
