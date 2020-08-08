@@ -73,19 +73,20 @@ Different resources and links about JavaScript or useful tools.
 - [BNF Grammar Example](http://www.cs.utsa.edu/~wagner/CS3723/grammar/examples2.html)
 - [BNF & EBNF Grammar Video](https://www.youtube.com/watch?v=hl2NLbIaU7U)
 
-### ECMA related
+### Related to ECMAScript
 - [ECMAScript archives](https://www.ecma-international.org/archive/ecmascript/)
 - [Document prior art / common finalizer pitfalls (WeakRef)](https://github.com/tc39/proposal-weakrefs/issues/78)
 - [ECMAlgol](https://www.ecma-international.org/publications/files/ECMA-ST-WITHDRAWN/ECMA-2,%201st%20Edition,%20April%201965.pdf)
+- [TC39 - Forum](https://es.discourse.group/)
 
 ### Data Abstraction and Object Oriented
 
+- (**recommanded**) [Proposal for Simplified, Modern Definitions of "Object" and "Object Oriented](https://wcook.blogspot.com/2012/07/proposal-for-simplified-modern.html)
+- (**recommanded**) [On Understanding Data Abstraction, Revisited](http://www.cs.utexas.edu/~wcook/Drafts/2009/essay.pdf)
+- (**recommanded**) [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
 - [A Self Bibliography](https://sites.cs.ucsb.edu/~urs/oocsb/self/papers/papers.html)
-- [Proposal for Simplified, Modern Definitions of "Object" and "Object Oriented](https://wcook.blogspot.com/2012/07/proposal-for-simplified-modern.html)
-- [On Understanding Data Abstraction, Revisited](http://www.cs.utexas.edu/~wcook/Drafts/2009/essay.pdf)
 - [Object-Oriented Programming Versus Abstract Data Types](http://www.cs.utexas.edu/~wcook/papers/OOPvsADT/CookOOPvsADT90.pdf)
 - [Data Abstraction and Hierarchy](https://pdfs.semanticscholar.org/36be/babeb72287ad9490e1ebab84e7225ad6a9e5.pdf)
-- [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
 - [Object-Oriented Programming in Scheme](https://mumble.net/~jar/pubs/oopis.pdf)
 - [A Denotational Semantics of Inheritance](https://www.cs.utexas.edu/~wcook/papers/thesis/cook89.pdf)
 - [Inheritance Is Not Subtyping](http://www.cs.utexas.edu/~wcook/papers/InheritanceSubtyping90/CookPOPL90.pdf)
