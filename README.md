@@ -75,6 +75,7 @@ Different resources and links about JavaScript or useful tools.
 
 ### Related to ECMAScript
 - [ECMAScript archives](https://www.ecma-international.org/archive/ecmascript/)
+- [Understanding ECMAScript Spec by V8 Team](https://v8.dev/blog/tags/understanding-ecmascript)
 - [Document prior art / common finalizer pitfalls (WeakRef)](https://github.com/tc39/proposal-weakrefs/issues/78)
 - [ECMAlgol](https://www.ecma-international.org/publications/files/ECMA-ST-WITHDRAWN/ECMA-2,%201st%20Edition,%20April%201965.pdf)
 - [TC39 - Forum](https://es.discourse.group/)
