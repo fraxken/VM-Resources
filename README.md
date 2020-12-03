@@ -1,3 +1,5 @@
+> Note: ⚠️ feel free to PR new links! It becomes quite difficult to find interesting resources.
+
 # JavaScript
 Several links, articles and blogs to understand how modern JavaScript compilers work and optimize our codes. Also includes various resources on ECMAScript and object-oriented programming.
 
