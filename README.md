@@ -68,6 +68,9 @@ Different articles and tools dealing with more or less important notions:
 - [Constant field tracking for arrays](https://docs.google.com/document/d/1r2GAvdi_wudDS6iRUfdPw0gxWMfV-IX1PqKgwW47FyE/edit)
 - [Fast frozen & sealed elements in V8](https://docs.google.com/document/d/1X6zO5F_Zojizn2dmo_ftaOWsY8NltPHUhudBbUzMxnc/preview)
 - [Compressed pointers in V8](https://docs.google.com/document/d/10qh2-b4C5OtSg-xLwyZpEI5ZihVBPtn1xwKBbQC26yI/edit#heading=h.x1cv1fi5g42q)
+- [Fast C API in V8](https://docs.google.com/document/d/1nK6oW11arlRb7AA76lJqrBIygqjgdc92aXUPYecc9dU/edit)
+- [Spread call performance](https://docs.google.com/document/d/1DWPizOSKqHhSJ7bdEI0HIVnner84xToEKUYqgXm3g30/edit)
+- [Iterator builtins design document](https://docs.google.com/document/d/13z1fvRVpe_oEroplXEEX0a3WK94fhXorHjcOMsDmR-8/edit)
 
 #### Papers and academic research
 - [Revolutionizing Embedded Software](http://verdich.dk/kasper/RES.pdf)
