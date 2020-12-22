@@ -100,6 +100,7 @@ Different articles and tools dealing with more or less important notions:
 
 ### Data Abstraction, Object Oriented etc
 
+- (**recommanded**) [How Data Abstraction changed Computing forever | Barbara Liskov](https://www.youtube.com/watch?v=_jTc1BTFdIo)
 - (**recommanded**) [Proposal for Simplified, Modern Definitions of "Object" and "Object Oriented](https://wcook.blogspot.com/2012/07/proposal-for-simplified-modern.html)
 - (**recommanded**) [On Understanding Data Abstraction, Revisited](http://www.cs.utexas.edu/~wcook/Drafts/2009/essay.pdf)
 - (**recommanded**) [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
