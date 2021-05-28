@@ -13,6 +13,10 @@ Different articles and tools dealing with more or less important notions:
 - [JavaScript performance pitfalls in V8](https://ponyfoo.com/articles/javascript-performance-pitfalls-v8)
 - [Wormholes in JavaScript (from Mathias Buus)](https://www.nearform.com/blog/wormholes-in-javascript/)
 - [Dr. Axel Rauschmayer Blog](http://2ality.com/) - Really a lot of topics that have been covered over time. Feel free to use the search bar.
+- [Franziska Hinkelmann: JavaScript engines - how do they even? ](https://www.youtube.com/watch?v=p-iiEDtpy6I)
+- [A sneak peek into super optimized code in JS frameworks by Maxim Koretskyi](https://www.youtube.com/watch?v=_VHNTC67NR8&list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu&index=3)
+- [The Past, Present and Future of JavaScript Engines](https://www.youtube.com/watch?v=iLWDUJMCoWs&list=PLfMzBWSH11xZPfWcC0DqFqKo_reMP58mw&index=46)
+- [Mathias B, Benedikt M - JS Engine fundamentals](https://www.youtube.com/watch?v=0I0d8LkDqyc)
 
 ### Benchmark
 - [Dangers of cross language benchmark games](https://mrale.ph/blog/2011/05/12/dangers-of-cross-language-benchmark-games.html)
@@ -39,7 +43,9 @@ Different articles and tools dealing with more or less important notions:
 - [V8 Engine Blog](https://v8.dev/blog)
 - [Egorov V8 resources](https://mrale.ph/v8/resources.html) - An extension of this repo 
 - [Understanding V8’s Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
-- [v8-perf](https://github.com/thlorenz/v8-perf);
+- [v8-perf](https://github.com/thlorenz/v8-perf)
+- [Marja Hölttä: Parsing JavaScript - better lazy than eager?](https://www.youtube.com/watch?v=Fg7niTmNNLg&list=PL37ZVnwpeshFmAPr65sU2O5WMs7_CGjs_&index=11)
+- [Embedding V8 in the real world by Stanimira Vlaeva](https://www.youtube.com/watch?v=wz7Znu6tqFw&list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu&index=17)
 
 ### JSCore (from the blog)
 
@@ -47,6 +53,7 @@ Different articles and tools dealing with more or less important notions:
 - [A New Bytecode Format for JavaScriptCore](https://webkit.org/blog/9329/a-new-bytecode-format-for-javascriptcore/)
 - [Concurrent JavaScript: It can work!](https://webkit.org/blog/7846/concurrent-javascript-it-can-work/)
 - [JSC Love ES6](https://webkit.org/blog/7536/jsc-loves-es6/)
+- [Michael Saboff — JavaScriptCore, many compilers make this engine perform](https://www.youtube.com/watch?v=mtVBAcy7AKA)
 
 ---
 
