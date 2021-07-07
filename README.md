@@ -78,6 +78,7 @@ Different articles and tools dealing with more or less important notions:
 - [Fast C API in V8](https://docs.google.com/document/d/1nK6oW11arlRb7AA76lJqrBIygqjgdc92aXUPYecc9dU/edit)
 - [Spread call performance](https://docs.google.com/document/d/1DWPizOSKqHhSJ7bdEI0HIVnner84xToEKUYqgXm3g30/edit)
 - [Iterator builtins design document](https://docs.google.com/document/d/13z1fvRVpe_oEroplXEEX0a3WK94fhXorHjcOMsDmR-8/edit)
+- [Zero-cost async stack traces](https://docs.google.com/document/d/13Sy_kBIJGP0XT34V1CV3nkWya4TwYx9L3Yv45LdGB6Q/edit)
 
 #### Papers and academic research
 - [Revolutionizing Embedded Software](http://verdich.dk/kasper/RES.pdf)
